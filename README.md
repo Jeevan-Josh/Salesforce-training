@@ -1,19 +1,39 @@
 # Salesforce Training
 
 ## About
-This repository contains my daily learning, notes, screenshots, and tasks from the Salesforce Summer Program.
+This repository contains my learning, notes, screenshots, and tasks from the Salesforce Summer Program.
 
-## Goals
-- Learn Salesforce fundamentals
-- Understand CRM concepts
-- Learn Salesforce development
-- Build applications using Salesforce
+---
 
-## Repository Structure
+# Week 1 Progress
 
-week1/
+## Completed Days
+
+- Day 1 - CRM Basics ✅
+- Day 2 - Platform Basics ✅
+
+---
+
+# Topics Covered
+
+## Day 1
+- CRM Basics
+- Salesforce Introduction
+- Accounts, Contacts, Opportunities
+- Business Workflow
+
+## Day 2
+- Salesforce Platform
+- Apps, Objects, Tabs
+- Configuration vs Coding
+- Multi-Tenant Architecture
+
+---
+
+# Repository Structure
+
+Week1/
 │
-└── day1-crm-basics/
-
-## Progress
-- Week 1 Day 1 ✅
+├── Day1-crm-basics/
+│
+└── Day2-platform-basics/
