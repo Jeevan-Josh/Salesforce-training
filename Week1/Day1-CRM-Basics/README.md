@@ -133,6 +133,3 @@ Lead → Contact → Opportunity → Customer
 
 ---
 
-## Screenshots
-
-(Add screenshots inside screenshots folder)
