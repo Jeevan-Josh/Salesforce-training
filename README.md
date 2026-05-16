@@ -11,6 +11,8 @@ This repository contains my learning, notes, screenshots, and tasks from the Sal
 
 - Day 1 - CRM Basics ✅
 - Day 2 - Platform Basics ✅
+- Day 3 - Data Modeling ✅
+
 
 ---
 
@@ -27,6 +29,14 @@ This repository contains my learning, notes, screenshots, and tasks from the Sal
 - Apps, Objects, Tabs
 - Configuration vs Coding
 - Multi-Tenant Architecture
+
+## Day 3
+- Objects
+- Fields
+- Records
+- Relationships
+- Formula Fields
+- Validation Rules
 
 ---
 
