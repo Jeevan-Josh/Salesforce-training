@@ -15,6 +15,6 @@ Version control.
 CLI:
 Developer productivity tool.
 
-Main idea:
+Main idea: 
 
 Enterprise development needs process and structure.
