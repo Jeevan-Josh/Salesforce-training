@@ -190,4 +190,4 @@ Automation improves productivity, consistency and efficiency.
 
 5. Automation should be avoided when processes frequently change.
 
-6. Automation improves consistency and productivity by reducing errors.
+6. Automation improves consistency and productivity by reducing errors. 

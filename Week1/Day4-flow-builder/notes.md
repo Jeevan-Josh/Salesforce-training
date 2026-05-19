@@ -16,6 +16,6 @@ Automation Benefits:
 - Improves productivity
 - Improves consistency
 
-Main Idea:
+Main Idea: 
 
 Manual repetitive work should be automated.
