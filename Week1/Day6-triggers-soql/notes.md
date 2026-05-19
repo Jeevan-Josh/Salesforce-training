@@ -7,7 +7,7 @@ Trigger:
 Automatic code execution after events.
 
 Before Trigger:
-Runs before save.
+Runs before save. 
 
 After Trigger:
 Runs after save.
