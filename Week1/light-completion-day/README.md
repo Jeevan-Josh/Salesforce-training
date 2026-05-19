@@ -44,4 +44,4 @@ Developers use command-line tools because they are faster and help automate repe
 
 Search Reflection:
 
-Fast search improves productivity because users can quickly find records.
+Fast search improves productivity because users can quickly find records. 
