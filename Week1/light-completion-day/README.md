@@ -1,7 +1,7 @@
 # Light Completion Day
 
 ## Modules Completed
-
+ 
 1. Search Solution Basics
 2. Platform Events Basics
 3. Command-Line Interface
