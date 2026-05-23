@@ -4,7 +4,7 @@
  
 1. Search Solution Basics
 2. Platform Events Basics
-3. Command-Line Interface
+3. Command-Line Interface 
 
 ---
 
