@@ -126,10 +126,12 @@ Lead → Contact → Opportunity → Customer
 
 ---
 
+
 ## Doubts / Questions
 
 - How do Salesforce developers build applications?
 - How are objects connected internally?
 
 ---
+
 
