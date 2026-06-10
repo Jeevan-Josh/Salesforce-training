@@ -5,19 +5,18 @@ This repository contains my learning, notes, screenshots, and tasks from the Sal
 
 ---
 
-# Week 1 Progress
+## Week 1
 
-## Completed Days
+- Day 1 - CRM Basics
+- Day 2 - Platform Basics
+- Day 3 - Data Modeling
+- Day 4 - Flow Builder
+- Day 5 - Apex Introduction
 
-- Day 1 - CRM Basics ✅
-- Day 2 - Platform Basics ✅
-- Day 3 - Data Modeling ✅
-- Day 4 - Flow Builder and Automation ✅
-- Day 5 - Apex Introduction ✅
-- Day 6 – SOQL and Triggers ✅
-- Light Completion Day ✅
-- Day 7 – Testing and DX ✅
+## Week 2
 
+- Day 6 - SOQL and Triggers
+- Day 7 - Testing and DX
 
 
 ---
